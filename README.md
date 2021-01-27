@@ -1,2 +1,2 @@
 # dragon-eggs
-Example of using nginx + uwsgi + flask + celery + aws s3
+Example of using nginx + uwsgi + flask + celery
